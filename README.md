@@ -1,7 +1,3 @@
-Here's a sample README file for your script on GitHub:
-
----
-
 # KML Path Importer for Google Earth Studio and After Effects
 
 This script allows you to import a KML route file and create a path in After Effects or Google Earth Studio, which can be animated in 3D space. It processes the KML coordinates, converts them into a 3D path, and generates a vector shape layer to visualize the route.
